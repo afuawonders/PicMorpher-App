@@ -4,7 +4,7 @@
 
 PicMorpher is an innovative AI web application that transforms textual prompts into captivating images, offering a seamless intersection of creativity and technology. This project, led by Afua Addae Adjei-Arthur, was developed as a solo endeavor and serves as the final project for the foundations section of the ALX Software Engineering program.
 
-- **Deployed Site:** [PicMorpher](https://picmorpher.onrender.com/success)
+- **Deployed Site:** [PicMorpher](https://picmorpher.onrender.com)
 - **Final Project Blog Article:** [Unleashing Creativity: The PicMorpher Journey](https://www.linkedin.com/pulse/unleashing-creativity-picmorpher-journey-afua-addae-adjei-arthur-ma-dka1e)
 - **Author(s) LinkedIn:** [Afua Addae Adjei-Arthur](www.linkedin.com/in/afua-addae-adjei-arthur-afua)
 
